@@ -1,7 +1,9 @@
+
+
 <html>
 	<head>
 	
-		<title>PHP Form Design </title>
+		<title>Alpha Club</title>
 		<link rel="stylesheet" href="css/style.css">
 	
 	</head>
