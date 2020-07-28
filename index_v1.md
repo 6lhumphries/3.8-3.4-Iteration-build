@@ -1,90 +1,71 @@
-
-
 <html>
 	<head>
 	
-		<title>Alpha Club</title>
-		<link rel="stylesheet" href="css/style.css">
+	<!-- Head containing meta,title and linking stylesheets -->
+	
+	<title> Tawa College Alpha Club Official Website </title>
+	
+	<meta charset="utf-8">
+	<meta name="Author" content="Lars Humphries">
+	<meta name="Description" content="Prototype Alpha Club Webpage">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link rel="stylesheet" href="css_v0.css">
 	
 	</head>
 	
 	<body>
-		
-		<div id = "main">
-			
-			<h1>Contact</h1>
-			
+	
 			<nav>
+			
 				<ul>
-					<li><a href="index.php"> Home</a></li>
-					<li><a href="page1.php"> Page1</a></li>
-					<li><a href="page2.php"> Page2</a></li>
-					<li><a href="contact.php"> Contact</a></li>
+					<li> Alpha Club</li>
+					<li> Information </li>
+					<li> Dropdown
+						
+						<ul>
+						<li> 1 </li>
+						<li> 2 </li>
+						<li> 3 </li>
+						<li> 4 </li>
+						</ul>
+					</li>
+					<li> Contact </li>
 				</ul>
+	
 			</nav>
-
-			<br><br><hr><br>
-			
-			<!-- FORM -->
-			
-			<div class="contact_container">
-				<form action="mail-text.php" method="post">
+	
+			<section>
+				<p>
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+				sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+				Lacus vel facilisis volutpat est velit egestas dui.
+				Faucibus interdum posuere lorem ipsum dolor sit amet consectetur.
+				Vivamus arcu felis bibendum ut.
+				Amet venenatis urna cursus eget nunc scelerisque.
+				Sapien pellentesque habitant morbi tristique senectus et.
+				Amet risus nullam eget felis eget.
+				Malesuada fames ac turpis egestas maecenas.
+				Facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat.
+				Ipsum dolor sit amet consectetur adipiscing elit.
+				Eros in cursus turpis massa tincidunt dui.
+				Eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque.
+				Ornare arcu dui vivamus arcu felis bibendum ut.
+				Hac habitasse platea dictumst vestibulum. 
+				Sed enim ut sem viverra aliquet eget sit.
+				Justo laoreet sit amet cursus sit amet dictum.
+				</p>
 				
-				<!-- FULL NAME -->
 				
-				<div class="row">
-					<div class="column">
-						<label for="fname"> Full Name</label>
-					</div>
-					<div class="column2">
-						<input type="text" id="name" name="name" placeholder="Full name">
-					</div>
-				</div>
 				
-				<!-- EMAIL -->
-			
-				<div class="row">
-					<div class="column">
-						<label for="email"> Email Address</label>
-					</div>
-					<div class="column2">
-					<input type="text" id="email" name="email" placeholder="your@emailaddress.com">
-					</div>
-				</div>
-			
-				<!--- CONTACT NUMBER -->
 				
-				<div class="row">
-					<div class="column">
-						<label for="contactnumber"> Contact Number</label>
-					</div>
-					<div class="column2">
-					<input type="text" id="contactnumber" name="contactnumber" placeholder="Phone #">
-					</div>
-				</div>
 				
-				<!--- SUBJECT -->
-				
-				<div class="row">
-					<div class="column">
-						<label for="subject"> Subject</label>
-					</div>
-					<div class="column2">
-					<textarea id="text" name="body" placeholder="Write in here..." style="height: 200px;"></textarea>
-					</div>
-				</div>
-				
-				<!--- SUBMIT BUTTON-->
-				
-				<div class="row">
-					<input type="submit" value="Submit">
-				</div>
-				
-				</form>
-			</div>
+			</section>
+	
+	</div>
 	
 	</body>
 	
 	
+	
 </html>
-
