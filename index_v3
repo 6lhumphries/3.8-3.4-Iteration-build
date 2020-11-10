@@ -1,0 +1,76 @@
+<html>
+	<head>
+	
+	<!-- Head containing meta,title and linking stylesheets -->
+	
+	<title> Tawa College Alpha Club Official Website </title>
+	
+	<meta charset="utf-8">
+	<meta name="Author" content="Lars Humphries">
+	<meta name="Description" content="Prototype Alpha Club Webpage">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link rel="stylesheet" href="css/css_v0.css">
+	
+	<!-- CACHED IMAGE CODE
+
+	<img src="images/placeholder image.gif"
+	class="enlarge" alt="placeholder.gif" height="150px" >
+
+	-->
+	
+	
+	</head>
+	
+	<body>
+	
+			<nav>
+			
+				<ul>
+					<li> <a href="index_v1"> <img src="images/Homelogo2.png" 
+						 alt="HomeLogo2.png" height="17px"> </a>  </li>
+					<li> <a href="info_v1.html"> <img src="images/InfoLogo.png" 
+						 alt="InfoLogo.png" height="17px" > </a> </li>
+					<li> Dropdown
+						
+						<ul>
+						<li> 1 </li>
+						<li> 2 </li>
+						<li> 3 </li>
+						<li> 4 </li>	
+						</ul>
+					</li>
+					<li> Contact </li>
+				</ul>
+	
+			</nav>
+	
+			<section>
+				<p>
+				
+				
+
+				The Alpha Club is a book club situated in Tawa College, run by Lars Humphries <br>
+				We are currently reviewing The Tempest, by William Shakespeare. <br>
+				
+				If you want to learn more, go to our Information page.  <br>
+				
+				
+				
+				</p>
+				
+				
+				
+				
+				
+			</section>
+
+	
+	</div>	
+	<div class="footer">Copyright Lars Humphries, Tawa College</div>
+	
+	</body>
+	
+	
+	
+</html>
