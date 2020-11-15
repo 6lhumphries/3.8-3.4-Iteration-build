@@ -1,0 +1,83 @@
+<html>
+	<head>
+	
+	<!-- Head containing meta,title and linking stylesheets -->
+	
+	<title> Tawa College Alpha Club Official Website Info </title>
+	
+	<meta charset="utf-8">
+	<meta name="Author" content="Lars Humphries">
+	<meta name="Description" content="Prototype Alpha Club Webpage">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link rel="stylesheet" href="css/css_v0.css">
+	
+	<!-- CACHED IMAGE CODE
+
+	<img src="images/placeholder image.gif"
+	class="enlarge" alt="placeholder.gif" height="150px" >
+
+	-->
+	
+	
+	</head>
+	
+	<body>
+	
+			<nav>
+			
+				<ul>
+					<li> <a href="index_v1.html"> <img src="images/Homelogo2.png" 
+						 alt="HomeLogo2.png" height="17px"> </a>  </li>
+					<li> <a href="info_v1.html"> <img src="images/InfoLogo.png" 
+						 alt="InfoLogo.png" height="17px" > </a> </li>
+					<li> Dropdown
+						
+						<ul>
+						<li> 1 </li>
+						<li> 2 </li>
+						<li> 3 </li>
+						<li> 4 </li>	
+						</ul>
+					</li>
+					<li> Contact </li>
+				</ul>
+	
+			</nav>
+	
+			<section>
+				<p>
+				
+				
+
+				The Alpha Club is a book club situated in Tawa College, run by Lars Humphries <br>
+				We are currently reviewing The Tempest, by William Shakespeare. <br> <br>
+				The Tempest is a play by William Shakespeare,probably written in 1610–1611, and thought to be one of the last plays that Shakespeare wrote alone. <br>
+				After the first scene, which takes place on a ship at sea during a tempest, the rest of the story is set on a remote island, where the sorcerer Prospero, <br>
+				a complex and contradictory character, lives with his daughter Miranda, and his two servants—Caliban,
+				a savage monster figure, and Ariel, an airy spirit. <br>
+				The play contains music and songs that evoke the spirit of enchantment on the island.
+				It explores many themes, including magic, betrayal, revenge, and family. <br>
+				In Act IV, a wedding masque serves as a play-within-the play,
+				and contributes spectacle, allegory, and elevated language.
+				<br>
+				
+				
+				
+				</p>
+				
+				
+				
+				
+				
+			</section>
+
+	
+	</div>	
+	<div class="footer">Copyright Lars Humphries, Tawa College</div>
+	
+	</body>
+	
+	
+	
+</html>
